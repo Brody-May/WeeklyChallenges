@@ -52,7 +52,7 @@ namespace ChallengesWithTestsMark8
             }
             else 
             { 
-                return $"Hello, {nameOfPerson}";
+                return $"Hello, {nameOfPerson}!";
             }
         }
 
